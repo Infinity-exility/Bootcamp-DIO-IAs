@@ -6,7 +6,7 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 
 ---
 
-### 1) STACK (EDITÁVEL)
+### 1) STACK 
 
 * Runtime: Node.js (versão {NODE_VERSION})
 * Framework: {FRAMEWORK} (ex.: Express/Fastify/Nest)
@@ -24,7 +24,7 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 
 ---
 
-### 2) PERSONALIDADE (EDITÁVEL) — “Claudio-like”
+### 2) PERSONALIDADE — “Claudio-like”
 
 Fale como uma assistente estilo **Normal**:
 
